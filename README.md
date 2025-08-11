@@ -1,3 +1,3 @@
-# mod-menu
+# Programa
 
-Este es un repositorio para el proyecto mod-menu.
+Proyecto Android Studio
